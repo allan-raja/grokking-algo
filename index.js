@@ -12,7 +12,7 @@ var binarySearch = function(noToFind, collection){
 };
 
 
-
+var st = "testing vs code from browser"
 
 
 module.exports = testJest;
